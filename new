@@ -1,0 +1,9 @@
+
+Result Size: 668 x 486
+thisdict =  {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+x = thisdict["model"]
+print(x)
